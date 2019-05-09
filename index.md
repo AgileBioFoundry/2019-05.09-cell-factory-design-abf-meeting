@@ -10,7 +10,7 @@ This brownbag seminar covers the basics of constraint-based modeling of metaboli
 
 **Where**:
 
-* Thursday, May 9, 2019, 1pm-2pm EMSL 2585
+* Thursday, May 9, 2019, 1pm-2pm EMSL 1585
 
 **Requirements**: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (the setup instruction can be found [here](setup)). They are also required to abide by Software Carpentry's Code of Conduct.
 
