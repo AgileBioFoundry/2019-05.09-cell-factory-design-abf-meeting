@@ -22,6 +22,8 @@ follow the installation instructions for Python.
 
 Please open a shell (terminal) and create a conda environment for the course using the following command.
 
+    git clone https://github.com/AgileBioFoundry/2019-05.09-cell-factory-design-abf-meeting.git  cell-factory-design-course
+    cd cell-factory-design-course
     conda env create  -f environment.yml
 
 If you're on Linux or OS X or are using the git-bash shell on Windows run
